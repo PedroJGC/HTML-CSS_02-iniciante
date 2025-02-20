@@ -1,0 +1,16 @@
+/*  
+    Margin
+*/
+
+div, span {
+    border: solid red;
+    width: 50%;
+}
+
+.margin {
+    /* margin: 30px; */
+    /* margin-top: 30px; Nesse caso não se aplica ao inline. */
+    /* margin-left: 60px; */
+    /* margin: 30px 10px 80px 4rem; */
+    margin: auto; 
+}

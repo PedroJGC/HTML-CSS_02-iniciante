@@ -1,0 +1,29 @@
+/*  
+    Combinator
+
+    - Descendent  
+    - List
+    - next sibling - Irmão proximo
+    - child - o sinal ">" diz que só os filhos seram afetados
+*/
+
+/* 
+>>Descendent
+article p {
+    color: red;
+}
+
+>>List
+span, mark {
+    color: red;
+}
+
+>>next sibling - Irmão proximo
+h2 + p {
+    color: red;
+}
+*/
+
+aside>ul {
+    margin-top: 30px;
+}

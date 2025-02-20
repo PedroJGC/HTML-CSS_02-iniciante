@@ -1,0 +1,11 @@
+/*  
+   Mais específico
+
+   - style
+   - !important
+   - só usar em caso de extrema necessidade 
+*/
+
+#titulo {
+    font-size: 12px !important;
+}

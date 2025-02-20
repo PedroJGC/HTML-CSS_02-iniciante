@@ -1,0 +1,10 @@
+/*  
+    letter-spacing
+    word-spacing
+*/
+
+p {
+    letter-spacing: 0.1rem;
+    word-spacing: 2;
+}
+ 

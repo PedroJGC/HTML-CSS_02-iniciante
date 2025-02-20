@@ -1,0 +1,15 @@
+/*  
+    Font-size
+*/
+
+.container {
+    font-size: 20px;
+}
+
+p {
+    font-size: 1.5em; /* 1.5 * 20px = 30px */
+}
+
+p {
+    font-size: 1.5rem; /* 1.5 * 16px = 24px */
+}

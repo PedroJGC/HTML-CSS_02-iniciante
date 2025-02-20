@@ -1,0 +1,15 @@
+/*  
+    Margin colapse
+
+    - Nesse caso, o botom do bloco superior não se soma com o top do inferior
+    - Na verdade eles se fundem e assim ficam 30px em todo espaço entre eles
+*/
+
+div, span {
+    border: solid red; 
+    width: 50%;
+}
+
+.margin {
+     margin: 30px auto;
+}

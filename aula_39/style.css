@@ -1,0 +1,18 @@
+/*  
+   background-color
+   background-image
+   background-repeat
+*/
+
+body {
+    /* background-color: rgb(242, 242, 243); */
+    /* background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAACUCAMAAAATdsOFAAAAYFBMVEX///8GCAcAAAD19fVoaGh9fX3MzMz7+/ve3t7x8fG8vLxxcXGfn58/Pz/4+PisrKzX19fp6emGhoaRkZEaGhqlpaW2trZdXV0zMzPExMRVVVUuLi4nJycSEhIfHx9MTEzkXHmMAAAEIUlEQVR4nO2b6ZKqMBCFpWUNYQnIKur7v+UNiTMj2ihYg8nU7e/PKLZVh57OSSfB3Y4gCIIgCIIgCIIgCIIgCIIgCIIgiP+CwLSAt0hzVpX1+IqXFctT03qWIjKvSU4A8fjmCHBIGi8TplW9Jq1H1XByOVNqw7rs1YWktjr3aV7IJF/i+i7HYeZeHIDC3soZhbce22Ofido7juI/rWkRUdnCmc9rS/3yBG0ZfVDSQvJEJvX5YAxEDJBYl3gOcAlfh/ktAN9ezQoiD5wSrfF7hAfgWVQ0kSyEemFsmknHt0Z7KpX7y8Nrqd0Wl3RXKd/tGIC7lZZ1lHDq1n1D5r3cRss6GDjZyq8EJQDbRMwqwgS81e1t1ECywEq3JZUJXOSKU4QsGdND1QdYWeiaauXQ/n32vW7LVxNcoH/jv/WLMDjP9yT7KJofBZ3pkTpAgavLq8KLXdcreIcnV87Aw5bKXuHDgFZ63ss268o5we+uNlvt0hiRq5GcXp2258z3Ge/lCgM4Il5GJZsLnMUfTshslPdyos++O6yoauR7pJPnMJhLewntYyGHF7lYmlwW0vubx2YxPJprB+SciNRLAscH65CNbv8Y2WM39BmYgwy0AgbE9DKs4arAsaCT+aY7QKVf7cOuqlh4LR15R9YtSqek7rUyAt/T3hj7yl1Ei5qRRcikqxoK+CANUgIwaGesLNwLuEU24gf1ItPCtXhtoF9/bSDyH2CD3qqIfpSP2pWPxNB0j98wYzEMMNQKwrtRLrWrKu/QcDMWk8cegkpjO5XejtcEFh6bqf9gj6CWPuI4lX5UbQAWvrft6CMcptIH4+vQxeBZ/xskU+kGm9vV3DmMFftFt4SN+0ijJlMx9XXVx3Ak2m3MjIL8jBm1oz6rbmdTvQZEbb01I100k7L4Uqqn+2oYb8MZ1WnlDA3GVk8fYF+galo9t3deMp459qXOa9SiwaUhX68wNQ4UekcuzTvG/GtBBOhtOl+9/cdhBzST2GERd9DQ81ubfr8AXuzj2e5dPxh5gEc2xuYqvArGes9vxEc+Wueqtkwp37HznCaIM1/IIZjKBaqLp9xkvcjBN5dOZYpNHMfuuPk1E3Nthg3BZ2Up9XqOmo8wevj7TNkrAEwqn7H2hdLNnrhHl7e1Q2L4zJq9WzLLj+Y3o3xXemH6BG9uSn2pfMkjKFuTz81LT5W/d2T523TvSLdkE69aO1QtebphJFunHYytMBCy0wrt4HDj5nJDvTzvAJlNync7f2neLfGWW8RsWz4VboOfP5Alr8QDJKbW0S8IiyfrCnWs5NmYco1fHmZXc3AoDT+885xA1O394ui6RVcLe8x8DsEvw8H52Vc8HYb+L/xq4Epel+OTPK4be5zZW+AEQRAEQRAEQRAEQRAEQRAEQRAEQRB/mn+YqyvhVgFUPgAAAABJRU5ErkJggg=="); */
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #ff0099cc;
+    background-image: url("https://www.svgrepo.com/show/276264/pokeball-pokemon.svg");
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,13 @@
+/*  
+    Seletores
+
+    - type | element | tag = p (exemplo)
+    - id = #
+    - class = .
+    - atributo = [title]
+    - universal = *
+*/
+ 
+[title="t"] {
+    color: blueviolet;
+}

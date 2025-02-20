@@ -1,0 +1,18 @@
+/*  
+    color
+    text-transformation
+    text-decoration
+*/
+
+/* p {
+    text-transform: capitalize;
+} */
+
+mark {
+    color: red;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: underline overline red;
+}
